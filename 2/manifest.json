@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Color Picker",
+  "version": "1.0",
+  "description": "An extension to pick colors and get their HEX and RGB values.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["clipboardWrite"]
+}
